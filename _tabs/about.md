@@ -10,6 +10,17 @@ categories: [Greetings]
 tags: [dogs, hello]
 ---
 
+<style>
+h3 {
+  text-align: center;
+}
+
+img {
+    border-radius: 2%;
+}
+
+</style>
+
 # Hi there!
  Thanks for taking a peek at my website! Unfortunately, there's nothing to see here yet. I bought the domain because I thought the email address I could create was neat.
 
