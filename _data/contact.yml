@@ -3,9 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: signal
-  icon: "fab fa-signal-messenger"
-  url: 'https://signal.me/#eu/ZMH9dF2C-YLnsYXMkeUFkcYFPfnAjIjNriEqzO27VACY85plu3hF-LwU06CR-OjR'
+- ## type: signal
+  ## icon: "fab fa-signal-messenger"
+  ## url: 'https://signal.me/#eu/ZMH9dF2C-YLnsYXMkeUFkcYFPfnAjIjNriEqzO27VACY85plu3hF-LwU06CR-OjR'
 
 ##- type: twitter
 ##  icon: "fa-brands fa-x-twitter"
