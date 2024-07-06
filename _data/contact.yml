@@ -3,10 +3,6 @@
 - type: github
   icon: "fab fa-github"
 
-- ## type: signal
-  ## icon: "fab fa-signal-messenger"
-  ## url: 'https://signal.me/#eu/ZMH9dF2C-YLnsYXMkeUFkcYFPfnAjIjNriEqzO27VACY85plu3hF-LwU06CR-OjR'
-
 ##- type: twitter
 ##  icon: "fa-brands fa-x-twitter"
 
@@ -18,6 +14,12 @@
   icon: "fas fa-rss"
   noblank: true
 # Uncomment and complete the url below to enable more contact options
+
+- type: signal
+  icon: 'fa-brands fa-signal-messenger'   # icons powered by <https://fontawesome.com/>
+  url: 'https://signal.me/#eu/ZMH9dF2C-YLnsYXMkeUFkcYFPfnAjIjNriEqzO27VACY85plu3hF-LwU06CR-OjR'              
+
+
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
