@@ -1,5 +1,13 @@
 #  The contact options.
 
+- type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/lucasgaberkorn'                  # Fill with your Linkedin homepage
+
+- type: signal
+  icon: 'fa-brands fa-signal-messenger'   # icons powered by <https://fontawesome.com/>
+  url: 'https://signal.me/#eu/ZMH9dF2C-YLnsYXMkeUFkcYFPfnAjIjNriEqzO27VACY85plu3hF-LwU06CR-OjR'              
+
 - type: github
   icon: "fab fa-github"
 
@@ -15,9 +23,7 @@
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 
-- type: signal
-  icon: 'fa-brands fa-signal-messenger'   # icons powered by <https://fontawesome.com/>
-  url: 'https://signal.me/#eu/ZMH9dF2C-YLnsYXMkeUFkcYFPfnAjIjNriEqzO27VACY85plu3hF-LwU06CR-OjR'              
+
 
 
 #
@@ -25,9 +31,7 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
